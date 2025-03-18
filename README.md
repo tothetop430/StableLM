@@ -439,7 +439,7 @@ As is typical for any pretrained Large Language Model without additional finetun
 
 - `StableLM-Tuned-Alpha` would not have been possible without the helpful hand of Dakota Mahan [@dmayhem93](https://huggingface.co/dmayhem93).
 
-## Licenses
+## Licenses 
 
 - Base model checkpoints (`StableLM-Base-Alpha`) are licensed under the Creative Commons license ([CC BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)). Under the license, you must give [credit](https://creativecommons.org/licenses/by/4.0/#) to Stability AI, provide a link to the license, and [indicate if changes were made](https://creativecommons.org/licenses/by/4.0/#). You may do so in any reasonable manner, but not in any way that suggests the Stability AI endorses you or your use.
 
